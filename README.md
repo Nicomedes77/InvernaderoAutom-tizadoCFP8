@@ -1,2 +1,3 @@
 # Panel de sensores y actuadores
-Proyecto desarrollado como parte del Curso "Programación de Sistemas Embebidos". Centro de Formación Profesional Nº8 - SMATA. Año 2019
+Proyecto desarrollado como parte del Curso "Programación de Sistemas Embebidos". Centro de Formación Profesional Nº8 - SMATA. Año 2019.
+Utilizado actualmente en exposiciones.
