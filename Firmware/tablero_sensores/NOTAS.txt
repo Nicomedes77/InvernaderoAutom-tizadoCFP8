@@ -1,0 +1,32 @@
+loop{
+if(X=0 && Y=0)	funcion00
+if(X=0 && Y=1)	funcion01
+if(X=0 && Y=2)	funcion02
+if(X=0 && Y=3)	funcion03
+if(X=1 && Y=0)	funcion10
+if(X=1 && Y=1)	funcion11
+if(X=1 && Y=2)	funcion12
+if(X=1 && Y=3)	funcion13
+if(X=1 && Y=4)	funcion14
+if(X=2 && Y=0)	funcion20
+if(X=2 && Y=1)	funcion21
+if(X=2 && Y=2)	funcion22
+if(X=2 && Y=3)	funcion23
+if(X=2 && Y=4)	funcion24
+if(X=3 && Y=0)	funcion30
+if(X=3 && Y=1)	funcion31
+if(X=3 && Y=2)	funcion32
+if(X=3 && Y=3)	funcion33
+if(X=3 && Y=4)	funcion34
+if(X=4 && Y=0)	funcion40
+if(X=4 && Y=1)	funcion41
+if(X=4 && Y=2)	funcion42
+if(X=4 && Y=3)	funcion43
+if(X=4 && Y=0)	funcion44
+}
+
+funcion00{
+while(X=0 && Y=0){...hace lo que necesita si se cumple la condicion...}
+}
+
+interrupt(){la misma que hay hoy}
